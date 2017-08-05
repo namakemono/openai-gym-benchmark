@@ -1,0 +1,421 @@
+score,timestamp,url,username,env_id
+0.0,2017-08-04 04:38:24.906105,https://gym.openai.com/evaluations/eval_iIejGxEQKaTMBb8OeBS4Q,PiotrKaszuba,CartPole-v0
+0.0,2017-07-28 00:13:54.213842,https://gym.openai.com/evaluations/eval_0WASvhlvSuCN8iZkVzUvg,ja3067,CartPole-v0
+8.0,2017-07-30 22:26:32.846574,https://gym.openai.com/evaluations/eval_iyQVt3aT9yqyIgw2RBFug,jeff-collins,CartPole-v0
+21.0,2017-08-02 08:04:16.030458,https://gym.openai.com/evaluations/eval_H3YICgS4a4X86xplDh5A,lightaime,CartPole-v0
+69.0,2017-08-02 04:05:16.606159,https://gym.openai.com/evaluations/eval_HIz0KjtWSvW06yKKPiaF5A,Baichenjia,CartPole-v0
+0.0,2017-03-05 19:00:19.817195,https://gym.openai.com/evaluations/eval_55ksvxr8RXmS2rMlNah8Q,rahulsengupta,CarRacing-v0
+4452.95 ± 176.55,2017-06-08 19:42:46.511798,https://gym.openai.com/evaluations/eval_lsGMhz0OQ0GjKy9wuTGnA,dgriff777,Centipede-v0
+2908.89 ± 136.82,2016-08-25 22:44:09.411168,https://gym.openai.com/evaluations/eval_mc1Kp5e6R42rFdjeMLzkIg,ppwwyyxx,Centipede-v0
+2565.31 ± 210.99,2016-04-24 22:38:23.699733,https://gym.openai.com/evaluations/eval_k0tbRKO2TWalCMvTx61gxw,gdb,Centipede-v0
+N/A,2016-05-01 07:45:02.931011,https://gym.openai.com/evaluations/eval_rgRuW66QMeuUKWsIbq3Q,gdisneyleugers,Centipede-v0
+43431.29 ± 1132.00,2017-06-21 19:47:34.530573,https://gym.openai.com/evaluations/eval_8R6C5PogSDG3mBpmNeHUw,steveKapturowski,YarsRevenge-v0
+39116.19 ± 1251.00,2017-06-21 04:30:22.796031,https://gym.openai.com/evaluations/eval_33VZIoFqQtWf6N7R1zE8IQ,steveKapturowski,YarsRevenge-v0
+27876.08 ± 1043.24,2017-06-20 17:34:04.582966,https://gym.openai.com/evaluations/eval_dVHUtFEORxCtiYoCRYa6bA,steveKapturowski,YarsRevenge-v0
+3386.69 ± 85.77,2016-04-24 22:38:32.136629,https://gym.openai.com/evaluations/eval_LtIMlAFPSDCRl2OL9oej8Q,gdb,YarsRevenge-v0
+1927.70 ± 78.80,2017-04-14 20:28:13.844095,https://gym.openai.com/evaluations/eval_eQ6Zte9EQO6XJSBPSkhY8A,nabergh,Asteroids-ram-v0
+170.0,2016-05-17 21:18:18.456639,https://gym.openai.com/evaluations/eval_mRAis96GT9ij9XPsGEHf1Q,blole,ReversedAddition-v0
+N/A,2016-05-01 19:17:17.571898,https://gym.openai.com/evaluations/eval_NxuOrAsQpmOOYUsQbi7Cw,gdisneyleugers,ReversedAddition-v0
+N/A,2016-05-01 19:16:18.799561,https://gym.openai.com/evaluations/eval_EzQL8vYjQzWftAIlRsxWaQ,gdisneyleugers,ReversedAddition-v0
+N/A,2016-05-01 07:29:44.040962,https://gym.openai.com/evaluations/eval_D1ZmlDpiTEqMrVK9DbXfxQ,gdisneyleugers,ReversedAddition-v0
+N/A,2016-04-26 23:47:28.260396,https://gym.openai.com/evaluations/eval_Vj3iKiXERsiQGTLvCOVKfw,wojzaremba,ReversedAddition-v0
+N/A,2016-04-24 22:38:01.346304,https://gym.openai.com/evaluations/eval_XHHTcbvyQbGf6qbNOhaulg,gdb,ReversedAddition-v0
+25372.25 ± 276.12,2017-07-28 07:24:57.954569,https://gym.openai.com/evaluations/eval_S8XdrbByQ1eWLUD5jtQYIQ,ppwwyyxx,Qbert-v0
+14531.50 ± 213.90,2017-06-19 20:12:56.000512,https://gym.openai.com/evaluations/eval_esTQggLHRg6vz3YA2e06fw,steveKapturowski,Qbert-v0
+9426.00 ± 320.08,2017-06-19 19:04:12.445767,https://gym.openai.com/evaluations/eval_bLJWy17TGWSPDMp3ImiQ,steveKapturowski,Qbert-v0
+7512.75 ± 651.15,2016-08-17 18:01:44.718359,https://gym.openai.com/evaluations/eval_wekCJkrWQm9NrOUzltXg,ppwwyyxx,Qbert-v0
+474.25 ± 21.17,2016-05-27 18:24:54.484955,https://gym.openai.com/evaluations/eval_137s4ui9TvyaZzjoTWc9A,PuZZleDucK,Qbert-v0
+351.00 ± 21.11,2017-04-06 17:24:07.437304,https://gym.openai.com/evaluations/eval_uqQwhx4RSGOa5WYoqPkiA,1nadequacy,Qbert-v0
+187.25 ± 17.71,2016-05-21 07:27:58.429615,https://gym.openai.com/evaluations/eval_0hWCro7CTrCudDfItwfMNw,PuZZleDucK,Qbert-v0
+178.25 ± 16.25,2016-04-24 22:37:19.836523,https://gym.openai.com/evaluations/eval_h7xZ66AxT6WBIIVbEJB6fQ,gdb,Qbert-v0
+-172.47 ± 32.71,2016-04-24 22:37:46.516832,https://gym.openai.com/evaluations/eval_3IIu9LpmTGiqQQyjZb0mbQ,gdb,Pitfall-v0
+N/A,2016-12-26 22:48:40.920588,https://gym.openai.com/evaluations/eval_6XyixODLSKeGAQ3gAEOX9g,DollarAkshay,BipedalWalkerHardcore-v2
+N/A,2016-12-12 15:35:28.323436,https://gym.openai.com/evaluations/eval_qaM0iTJSST2DDd5Br0HE6A,ryogrid,BipedalWalkerHardcore-v2
+-1.00 ± 0.00,2016-04-24 22:37:53.634939,https://gym.openai.com/evaluations/eval_4hNanao8SIGtvddOSYwU9w,gdb,Go9x9-v0
+0.0,2017-04-18 06:29:48.906843,https://gym.openai.com/evaluations/eval_gUhDnmlbTKG1qW0jS6HSg,Ashioto,MountainCarContinuous-v0
+0.0,2016-12-30 20:31:03.917453,https://gym.openai.com/evaluations/eval_Mrq3OPBQEazp98e0yrg,JunhongXu,MountainCarContinuous-v0
+1.0,2017-04-18 07:43:27.149144,https://gym.openai.com/evaluations/eval_EYB8SSdGQuu76SvDXVvoA,Ashioto,MountainCarContinuous-v0
+566.0,2016-09-29 17:50:59.306319,https://gym.openai.com/evaluations/eval_2LraMcedRXjdZbRbQuJdQ,jimfleming,MountainCarContinuous-v0
+945.0,2016-09-29 04:10:19.864494,https://gym.openai.com/evaluations/eval_6YldJUHRqic5x2d8Hs0zw,jimfleming,MountainCarContinuous-v0
+-130.48 ± 8.74,2017-05-19 22:04:43.937775,https://gym.openai.com/evaluations/eval_IYSGK6TyTCSfs1bCsm9UPA,Anjum48,SemisuperPendulumNoise-v0
+-254.39 ± 21.71,2016-06-27 01:41:54.268459,https://gym.openai.com/evaluations/eval_5zaj9smbRMijmS9FUgST4w,RafaelCosman,SemisuperPendulumNoise-v0
+-284.59 ± 17.02,2016-06-27 01:41:41.675531,https://gym.openai.com/evaluations/eval_a8Bg1AEeS3C7lKvI3i4KGg,RafaelCosman,SemisuperPendulumNoise-v0
+-377.08 ± 27.92,2016-06-27 01:41:13.297510,https://gym.openai.com/evaluations/eval_VDOXscq6TzuJPXWqUfQE6Q,RafaelCosman,SemisuperPendulumNoise-v0
+-1398.34 ± 46.03,2016-06-27 01:42:06.765466,https://gym.openai.com/evaluations/eval_njexCJdfQ9GmhGO1pTkIQ,RafaelCosman,SemisuperPendulumNoise-v0
+28679.0,2017-07-27 00:50:28.834571,https://gym.openai.com/evaluations/eval_Isf8lUxQRyETpsG1y6BPA,pat-coady,Reacher-v1
+31605.0,2017-07-25 04:42:31.147466,https://gym.openai.com/evaluations/eval_tpWNYeqoTnCKimIXPkZ57A,pat-coady,Reacher-v1
+N/A,2016-05-24 18:57:45.099636,https://gym.openai.com/evaluations/eval_6kY02G5DSpekMBmAeRLVyA,korymath,Reacher-v1
+N/A,2016-05-03 06:36:21.653205,https://gym.openai.com/evaluations/eval_KPxEwjtZQkKXQGYml4uyAw,joschu,Reacher-v1
+N/A,2016-05-03 04:52:41.268990,https://gym.openai.com/evaluations/eval_ZgnQFpSMRli10LkWTxcQIw,joschu,Reacher-v1
+20.96 ± 0.02,2017-07-26 00:30:36.436139,https://gym.openai.com/evaluations/eval_gquejvZS4m7pKYXCPbW3A,dgriff777,Pong-v0
+20.95 ± 0.03,2017-06-03 17:06:32.884925,https://gym.openai.com/evaluations/eval_J7PMQ9zhSPipSGZPwdR21w,kkweon,Pong-v0
+20.87 ± 0.04,2017-05-16 12:35:12.797531,https://gym.openai.com/evaluations/eval_qZsD1qHORqCZWg7wPpmb0w,dgriff777,Pong-v0
+20.74 ± 0.07,2017-05-28 05:38:56.454150,https://gym.openai.com/evaluations/eval_UBDv2LGlSU2zspcwGoZA,ppwwyyxx,Pong-v0
+19.75 ± 0.18,2017-06-26 07:09:16.598522,https://gym.openai.com/evaluations/eval_JW6mrei1TNONf1fnq6Sp8w,sangmin082,Pong-v0
+18.95 ± 0.16,2017-03-12 00:00:04.594598,https://gym.openai.com/evaluations/eval_QY42ItKTkWz4BelZ69fpQ,andreimuntean,Pong-v0
+17.50 ± 0.27,2017-03-10 14:12:53.187915,https://gym.openai.com/evaluations/eval_Ju1iHdmzSUi2KiEtJpIyGQ,Shmuma,Pong-v0
+14.94 ± 0.34,2017-05-21 21:39:18.034586,https://gym.openai.com/evaluations/eval_Zxwzn6lBTl2uEhDUpyY1rg,kkweon,Pong-v0
+11.92 ± 0.55,2017-06-08 07:10:23.511784,https://gym.openai.com/evaluations/eval_cHg3eaS5qJJmr0ST8lTw,sangmin082,Pong-v0
+9.93 ± 0.51,2017-03-10 08:54:39.117490,https://gym.openai.com/evaluations/eval_87CKhQcUSqGaKwujXOLRw,Shmuma,Pong-v0
+-1.43 ± 0.73,2017-01-10 05:25:14.539311,https://gym.openai.com/evaluations/eval_u9THKYuWTAKXG55SQoESJg,vdpappu,Pong-v0
+-16.41 ± 0.32,2017-06-06 17:00:57.679365,https://gym.openai.com/evaluations/eval_TVNlHQtSYOZJMGL1KHwXA,sangmin082,Pong-v0
+-20.08 ± 0.11,2017-04-27 14:11:26.938576,https://gym.openai.com/evaluations/eval_hxQDTQAwTFe3YLwN3oENag,vhpvmx,Pong-v0
+N/A,2017-03-03 03:11:35.845935,https://gym.openai.com/evaluations/eval_hn9nmcS7QMCrmSBusrX7lg,leiz05,Pong-v0
+611.74 ± 4.07,2017-06-13 06:32:27.416851,https://gym.openai.com/evaluations/eval_aOyighJARniF59QQ1lN5Cw,steveKapturowski,Enduro-v0
+541.56 ± 6.97,2017-06-09 04:01:10.426595,https://gym.openai.com/evaluations/eval_aTC5idh6Rhsg5NjAAuA,steveKapturowski,Enduro-v0
+478.39 ± 6.55,2017-03-30 19:57:09.829332,https://gym.openai.com/evaluations/eval_z4OnfqZbSQq4YkLPtmN6rg,xinshuoweng,Enduro-v0
+476.62 ± 6.47,2017-05-27 06:39:48.238474,https://gym.openai.com/evaluations/eval_B8PhAT0RfWNXP6piJBdw,steveKapturowski,Enduro-v0
+467.91 ± 7.11,2017-03-30 05:05:24.433110,https://gym.openai.com/evaluations/eval_Erhi7IhuRSiIhOtKUCQkGA,xinshuoweng,Enduro-v0
+451.67 ± 6.45,2017-03-30 19:42:05.247311,https://gym.openai.com/evaluations/eval_ZXPYTOIzRBaffSqqYJFbqQ,xinshuoweng,Enduro-v0
+448.91 ± 6.36,2017-03-30 05:10:56.402432,https://gym.openai.com/evaluations/eval_DIIXPXQ9TqSnAkGsTFJnbA,xinshuoweng,Enduro-v0
+336.53 ± 10.10,2017-03-30 19:00:49.167453,https://gym.openai.com/evaluations/eval_xr3Dwnl4Q6W8Q4JZVXs5YA,xinshuoweng,Enduro-v0
+328.24 ± 13.11,2017-03-30 04:23:12.017372,https://gym.openai.com/evaluations/eval_4nH8WHphS0OfSWHrejJWpQ,xinshuoweng,Enduro-v0
+324.97 ± 10.19,2017-03-30 04:46:34.119695,https://gym.openai.com/evaluations/eval_P1Lmg7fSduRIRPfVTgJOw,xinshuoweng,Enduro-v0
+155.15 ± 4.56,2017-03-30 03:24:10.635248,https://gym.openai.com/evaluations/eval_jyvE10sZTFCOLebgLNPOEg,xinshuoweng,Enduro-v0
+142.58 ± 3.55,2017-03-30 03:13:07.759391,https://gym.openai.com/evaluations/eval_XjnYq9s5TxWo6LvWA1bnBA,xinshuoweng,Enduro-v0
+1.54 ± 0.30,2017-03-30 03:02:53.777393,https://gym.openai.com/evaluations/eval_v4yTNAoRTuSx3pcrHt4w,xinshuoweng,Enduro-v0
+0.03 ± 0.02,2017-03-30 03:13:32.946604,https://gym.openai.com/evaluations/eval_AbPEdr2eQNc4qd8YIZq2g,xinshuoweng,Enduro-v0
+0.00 ± 0.00,2017-03-30 03:21:13.453711,https://gym.openai.com/evaluations/eval_1vsA7TeXQbi7B74tgjAgPA,xinshuoweng,Enduro-v0
+0.00 ± 0.00,2017-03-30 03:20:12.031661,https://gym.openai.com/evaluations/eval_D1QjR2TcS5Sm159J1BcGCQ,xinshuoweng,Enduro-v0
+0.00 ± 0.00,2017-03-30 03:15:18.990052,https://gym.openai.com/evaluations/eval_a5MoFvaTwC6wjdiG1I7Qw,xinshuoweng,Enduro-v0
+0.00 ± 0.00,2017-03-30 03:03:16.993103,https://gym.openai.com/evaluations/eval_RRve3XMWSJehX0EOMTyrkw,xinshuoweng,Enduro-v0
+0.00 ± 0.00,2017-03-30 02:18:26.544309,https://gym.openai.com/evaluations/eval_CP8mo4lOTgey14wk2aCu8A,xinshuoweng,Enduro-v0
+0.00 ± 0.00,2017-03-30 02:17:42.885357,https://gym.openai.com/evaluations/eval_RlkyscxVSiy57wy48oTA,xinshuoweng,Enduro-v0
+0.00 ± 0.00,2017-03-30 02:16:47.764423,https://gym.openai.com/evaluations/eval_3mrQYTIbQwKwqgGr1bLnQ,xinshuoweng,Enduro-v0
+0.00 ± 0.00,2017-03-30 02:16:06.708928,https://gym.openai.com/evaluations/eval_INxR6TwClyqs24vmAA,xinshuoweng,Enduro-v0
+0.00 ± 0.00,2016-04-24 22:38:21.096369,https://gym.openai.com/evaluations/eval_okQOtBFR7ytsXZTDfPGyQ,gdb,Enduro-v0
+N/A,2016-05-01 07:50:35.340521,https://gym.openai.com/evaluations/eval_gCyORevkTo2XZSHkkeGTjQ,gdisneyleugers,Enduro-v0
+130.48 ± 8.14,2017-08-01 23:51:06.610571,https://gym.openai.com/evaluations/eval_4JRHBfF4RaqC2gmrNXs7UQ,tkgw,Breakout-ram-v0
+30.44 ± 1.22,2017-05-26 05:09:32.429477,https://gym.openai.com/evaluations/eval_tLiZx6dSwaX5YcVD4lrVg,tkgw,Breakout-ram-v0
+25.05 ± 0.67,2016-04-24 22:38:36.022714,https://gym.openai.com/evaluations/eval_kvG4k1IMRlKMHkN6n6a03w,gdb,Bowling-v0
+6031.00 ± 368.43,2016-08-22 18:24:29.081197,https://gym.openai.com/evaluations/eval_tYVKyh7wQieRIKgEvVaCuw,ppwwyyxx,ChopperCommand-v0
+905.00 ± 36.86,2016-04-24 22:37:45.032977,https://gym.openai.com/evaluations/eval_kFBn8EWCQJqU9ROkE6Qq6Q,gdb,ChopperCommand-v0
+N/A,2016-05-01 08:26:16.617618,https://gym.openai.com/evaluations/eval_oIcLrf3WRhqqpfcEqClg,gdisneyleugers,ChopperCommand-v0
+N/A,2016-05-01 07:45:33.339287,https://gym.openai.com/evaluations/eval_04TX9QIRUCvfw8naEKzw,gdisneyleugers,ChopperCommand-v0
+5607.30 ± 264.37,2016-08-22 21:44:43.999571,https://gym.openai.com/evaluations/eval_UXFVI34MSAuNTtjZcK8N0A,ppwwyyxx,Pooyan-v0
+467.85 ± 26.29,2016-04-24 22:37:09.385524,https://gym.openai.com/evaluations/eval_MLhD7ZaaQhCrETgpM9mV1w,gdb,Pooyan-v0
+184.42 ± 157.49,2016-04-24 22:38:33.394167,https://gym.openai.com/evaluations/eval_ss1FI7XdQWyzEaK0qMhjlw,gdb,PrivateEye-v0
+N/A,2016-05-01 07:59:51.556540,https://gym.openai.com/evaluations/eval_zCagLqPESTio0SsOfCIkiA,gdisneyleugers,PrivateEye-v0
+0.0,2017-04-08 21:13:35.669963,https://gym.openai.com/evaluations/eval_9TCvBbNzROiKEDq824SSQ,deltameter,LunarLanderContinuous-v2
+0.0,2016-10-14 01:30:03.491002,https://gym.openai.com/evaluations/eval_vaydV1hKSXqfnmvl8zaQfQ,stefanopalmieri,LunarLanderContinuous-v2
+589.0,2016-09-26 16:30:54.188475,https://gym.openai.com/evaluations/eval_4q3c8yTIR9OWlAQg7jYQ,MadcowD,LunarLanderContinuous-v2
+778.0,2016-09-26 16:21:51.242612,https://gym.openai.com/evaluations/eval_xTOLtQuSSDKn65TiU95dsg,MadcowD,LunarLanderContinuous-v2
+-407.00 ± 59.76,2016-08-17 20:34:18.597036,https://gym.openai.com/evaluations/eval_S9nQuXLRSu7S5x21Ay6AA,ppwwyyxx,JourneyEscape-v0
+-18571.00 ± 881.78,2016-04-24 22:37:59.958446,https://gym.openai.com/evaluations/eval_y2Gi1QlTkqtK3bxSvVOMw,gdb,JourneyEscape-v0
+N/A,2017-08-04 02:01:25.038586,https://gym.openai.com/evaluations/eval_jFN9J71sS3OKaY46Nm5ibA,koltafrickenfer,BipedalWalker-v2
+N/A,2017-06-29 19:40:36.780163,https://gym.openai.com/evaluations/eval_56BCOjJSfecpMf1apOi5w,alirezamika,BipedalWalker-v2
+N/A,2017-04-15 16:45:47.597788,https://gym.openai.com/evaluations/eval_QjN2JTCQRFu7rNgm0iGy4A,404akhan,BipedalWalker-v2
+N/A,2016-12-22 16:45:21.694717,https://gym.openai.com/evaluations/eval_wzmU0dtQCeoz2dWyhsD5Q,ryogrid,BipedalWalker-v2
+N/A,2016-12-22 02:29:11.712512,https://gym.openai.com/evaluations/eval_ujFWHmoqSniDh8cErKCVpA,DollarAkshay,BipedalWalker-v2
+N/A,2016-10-26 22:43:07.082148,https://gym.openai.com/evaluations/eval_a0YXWDc4SKeJjyTH7IrHBg,stefanopalmieri,BipedalWalker-v2
+N/A,2016-10-10 22:50:27.997569,https://gym.openai.com/evaluations/eval_8CvXwBzWSneSBzCmR9z5RQ,stefanopalmieri,BipedalWalker-v2
+54203.50 ± 1509.85,2017-07-11 20:59:13.521120,https://gym.openai.com/evaluations/eval_uxYSMnhuTpCNLoPZ7DkxKQ,dgriff777,Seaquest-v0
+51340.40 ± 1493.41,2017-07-10 08:56:54.447116,https://gym.openai.com/evaluations/eval_ub7LjrSwCHaaJQ6N0fg,dgriff777,Seaquest-v0
+50209.00 ± 2440.07,2017-05-28 06:27:38.441387,https://gym.openai.com/evaluations/eval_pjjgc9POQJK4IuVw8nXlBw,ppwwyyxx,Seaquest-v0
+21845.40 ± 832.90,2016-08-13 00:13:44.796889,https://gym.openai.com/evaluations/eval_N2624y3NSJWrOgoMSpOi4w,ppwwyyxx,Seaquest-v0
+8999.20 ± 438.56,2016-11-11 07:57:54.999860,https://gym.openai.com/evaluations/eval_GSS8XMQSTifRZ1QJe7Epg,steveKapturowski,Seaquest-v0
+170.80 ± 6.01,2017-04-06 17:27:52.608429,https://gym.openai.com/evaluations/eval_dFIvwxt8Q7axVa84hONzQ,1nadequacy,Seaquest-v0
+92.60 ± 7.96,2016-04-24 22:37:17.423885,https://gym.openai.com/evaluations/eval_UxCl1dThSFeGlxnSimWIOQ,gdb,Seaquest-v0
+41299.00 ± 1049.95,2017-01-07 17:26:58.124956,https://gym.openai.com/evaluations/eval_LimXjzAGTdyCdbJ8i9UXg,steveKapturowski,KungFuMaster-v0
+34767.00 ± 836.92,2016-08-22 21:12:24.019298,https://gym.openai.com/evaluations/eval_vNWDShYTRC0MhfIybeUYg,ppwwyyxx,KungFuMaster-v0
+22814.00 ± 653.39,2017-02-23 00:15:20.444524,https://gym.openai.com/evaluations/eval_ZxE74rHVSHmJAM6Wx5oiWw,justheuristic,KungFuMaster-v0
+9095.00 ± 312.20,2016-05-27 12:24:32.639817,https://gym.openai.com/evaluations/eval_HynxPgkQTJiIIcl3nP19Q,Regenerator,KungFuMaster-v0
+8745.00 ± 276.33,2016-05-28 05:47:57.478181,https://gym.openai.com/evaluations/eval_U0uHmrtKSTTgjO2yMg7yg,justheuristic,KungFuMaster-v0
+7424.00 ± 239.47,2016-05-02 16:11:58.768934,https://gym.openai.com/evaluations/eval_pJ5fJr3aRgy3FoEmF1Tyiw,justheuristic,KungFuMaster-v0
+715.00 ± 48.95,2016-04-24 22:37:08.304064,https://gym.openai.com/evaluations/eval_ScAihbx6Tm6724IxDufeg,gdb,KungFuMaster-v0
+85.00 ± 12.71,2016-05-05 08:34:50.355792,https://gym.openai.com/evaluations/eval_yUrYyTujRqyhtb6sq8ZGFw,ztianjin,KungFuMaster-v0
+0.00 ± 0.00,2016-05-05 08:16:46.251340,https://gym.openai.com/evaluations/eval_L3MG7B7ZQ8CDunUGmP3cw,ztianjin,KungFuMaster-v0
+N/A,2016-05-27 11:26:47.796102,https://gym.openai.com/evaluations/eval_xfwaZFZLQVS3DQsx6RhKyQ,Regenerator,KungFuMaster-v0
+N/A,2016-05-27 11:18:14.947115,https://gym.openai.com/evaluations/eval_xNsP9oW1Tr6EQu8oV7w5OA,Regenerator,KungFuMaster-v0
+N/A,2016-05-05 07:56:35.079864,https://gym.openai.com/evaluations/eval_CjVfLyJxSNGD3jXddH0NRw,ztianjin,KungFuMaster-v0
+N/A,2016-05-05 07:56:23.651465,https://gym.openai.com/evaluations/eval_kwaC0aLOS4iiM9JmznzSBQ,ztianjin,KungFuMaster-v0
+N/A,2016-05-05 07:56:20.273785,https://gym.openai.com/evaluations/eval_VJNSOKOQRmOgeEu76ZCsgw,ztianjin,KungFuMaster-v0
+N/A,2016-05-05 07:56:15.364397,https://gym.openai.com/evaluations/eval_wEqikzrHR8KzoFSAxoLFnw,ztianjin,KungFuMaster-v0
+200.00 ± 0.00,2016-11-11 01:58:10.449900,https://gym.openai.com/evaluations/eval_upxhWwI0RPCFx4qCiHcGAg,rmoehn,OffSwitchCartpole-v0
+19.42 ± 0.53,2016-08-22 19:00:44.373771,https://gym.openai.com/evaluations/eval_8oWCTwwGS7OUTTGRwBPQkQ,ppwwyyxx,IceHockey-v0
+-9.55 ± 0.37,2016-04-24 22:37:18.647887,https://gym.openai.com/evaluations/eval_PCUChENBR3iQJch1DRF9ww,gdb,IceHockey-v0
+2288.90 ± 194.53,2016-08-23 23:40:57.703270,https://gym.openai.com/evaluations/eval_Yri0XQbwRy62NzWILdn5IA,ppwwyyxx,Berzerk-v0
+196.10 ± 13.61,2016-04-27 21:50:50.416289,https://gym.openai.com/evaluations/eval_OA72qNjSWa5YitnpD4kwQ,gdb,Berzerk-v0
+33.50 ± 3.43,2016-04-30 02:54:34.250560,https://gym.openai.com/evaluations/eval_piLz3kd2T8yNS9FXkrOmgg,rickhenderson,Berzerk-v0
+N/A,2016-05-01 07:12:03.556968,https://gym.openai.com/evaluations/eval_2ixdWBDpS7ed7VLa0cvkQQ,gdisneyleugers,Berzerk-v0
+3583.00 ± 4.17,2017-06-06 19:15:53.257346,https://gym.openai.com/evaluations/eval_5AjWk3qrRJurmHo33YS5w,steveKapturowski,MontezumaRevenge-v0
+2500.00 ± 0.00,2017-03-08 16:06:59.578849,https://gym.openai.com/evaluations/eval_zxZ4J4nTRw2snOY7umcfqw,pkumusic,MontezumaRevenge-v0
+2451.00 ± 38.12,2017-05-18 11:09:44.826399,https://gym.openai.com/evaluations/eval_sxADuny0SHS7XWcnxAHBlw,NoListen,MontezumaRevenge-v0
+2440.00 ± 37.91,2017-04-13 00:26:51.474070,https://gym.openai.com/evaluations/eval_ER8ZmuuJS5K2CAxlN0IB2w,pkumusic,MontezumaRevenge-v0
+1949.00 ± 100.71,2017-05-09 05:37:57.206746,https://gym.openai.com/evaluations/eval_oBgyXpp3QTuZyC1mCC8rQ,NoListen,MontezumaRevenge-v0
+1631.00 ± 165.94,2017-06-04 21:34:28.661998,https://gym.openai.com/evaluations/eval_OcybxurMQNydtRjNxLEg,steveKapturowski,MontezumaRevenge-v0
+1284.00 ± 36.91,2016-10-21 13:26:46.503529,https://gym.openai.com/evaluations/eval_e6uQIveRRVZHz5C2RSlPg,Itsukara,MontezumaRevenge-v0
+1127.00 ± 53.19,2016-10-14 13:50:08.817535,https://gym.openai.com/evaluations/eval_mMQJe1nsS7OA3U72AvvJEQ,Itsukara,MontezumaRevenge-v0
+760.00 ± 53.33,2017-05-26 04:59:42.868818,https://gym.openai.com/evaluations/eval_IvogBvmfT0ziSzNgeOGg,steveKapturowski,MontezumaRevenge-v0
+448.00 ± 27.60,2016-10-13 15:10:00.436364,https://gym.openai.com/evaluations/eval_irmpzSknRMAjzv2yhseNA,Itsukara,MontezumaRevenge-v0
+129.00 ± 30.20,2017-04-13 00:21:03.508751,https://gym.openai.com/evaluations/eval_Ib2hjIrLRS6AszgyuKoVcw,pkumusic,MontezumaRevenge-v0
+0.00 ± 0.00,2016-04-24 22:38:27.541505,https://gym.openai.com/evaluations/eval_U34SmIDtQtqsRGrGKZqUBQ,gdb,MontezumaRevenge-v0
+32894.00 ± 842.17,2016-08-23 01:16:42.825537,https://gym.openai.com/evaluations/eval_TIQ102EwTrHrOyve2RGfg,ppwwyyxx,Zaxxon-v0
+20207.00 ± 598.98,2016-10-24 00:43:56.667347,https://gym.openai.com/evaluations/eval_DOCmbfskQ9i3qo5RpA11XQ,steveKapturowski,Zaxxon-v0
+46.00 ± 25.26,2016-04-24 22:37:31.979298,https://gym.openai.com/evaluations/eval_ctPyyxmiTXO1VKrZ07258g,gdb,Zaxxon-v0
+-3733.15 ± 6.85,2017-01-29 13:42:21.835370,https://gym.openai.com/evaluations/eval_MQrSRG5CQNmwe64VdFn0Fg,g00dgame,Skiing-v0
+-5066.09 ± 579.11,2017-01-18 13:49:26.067306,https://gym.openai.com/evaluations/eval_BSWA660qSIaVAsigWXhiBA,justheuristic,Skiing-v0
+-9013.00 ± 0.00,2017-01-26 19:49:41.846132,https://gym.openai.com/evaluations/eval_rMuXWTLtQ2mFDqHNJO8LA,Lextal,Skiing-v0
+N/A,2017-01-26 18:04:01.805100,https://gym.openai.com/evaluations/eval_LtSfIuTNSB2Noi458A,LIKANblk,Skiing-v0
+1247.0,2016-10-17 20:26:37.940332,https://gym.openai.com/evaluations/eval_vSCpQ9NGQsSD6tBqMS4wsw,colinmorris,Reverse-v0
+31826.0,2016-04-25 22:58:32.582449,https://gym.openai.com/evaluations/eval_zUwRJJTGR9mv26OIQvhKYg,wojzaremba,Reverse-v0
+N/A,2016-05-17 21:15:46.894770,https://gym.openai.com/evaluations/eval_shZ0KlouS6u0fdrawpRcVQ,blole,Reverse-v0
+N/A,2016-05-01 07:15:44.938780,https://gym.openai.com/evaluations/eval_bKB2p9SwSriIbZgLyQEpFw,gdisneyleugers,Reverse-v0
+N/A,2016-04-24 22:38:29.759564,https://gym.openai.com/evaluations/eval_tM0LDA1GT9ObfaKUjlRRWw,gdb,Reverse-v0
+8267.70 ± 101.47,2017-07-31 11:41:08.001248,https://gym.openai.com/evaluations/eval_AZ0K1ERjTDiuVoc1T8RX6A,pat-coady,Humanoid-v1
+6482.52 ± 152.11,2016-05-03 06:02:47.679629,https://gym.openai.com/evaluations/eval_i3x1JpReRukTZrznxypCw,joschu,Humanoid-v1
+618.54 ± 15.16,2016-05-03 04:43:40.326272,https://gym.openai.com/evaluations/eval_CIcVkjUQAKaPWvzIrCfkw,joschu,Humanoid-v1
+-168.28 ± 12.21,2017-05-19 23:50:03.462591,https://gym.openai.com/evaluations/eval_Ui8P9LYSFKuv5gUuVb8fw,Anjum48,SemisuperPendulumRandom-v0
+-209.14 ± 15.40,2016-06-18 12:14:29.609922,https://gym.openai.com/evaluations/eval_MPPB2TWURVGnPiCV0jK6pA,RafaelCosman,SemisuperPendulumRandom-v0
+-238.85 ± 15.08,2016-06-18 12:45:46.286167,https://gym.openai.com/evaluations/eval_X7PIT7CBRKC2DBYqLWliAw,RafaelCosman,SemisuperPendulumRandom-v0
+-245.81 ± 29.88,2016-06-18 02:34:41.273670,https://gym.openai.com/evaluations/eval_4snnRTTuTF6B3sFY4K93MA,RafaelCosman,SemisuperPendulumRandom-v0
+-259.99 ± 13.99,2016-06-19 01:49:18.284473,https://gym.openai.com/evaluations/eval_Ub6dm6MS8SssjfVcVFN8Q,RafaelCosman,SemisuperPendulumRandom-v0
+69154.0,2017-07-28 20:56:31.934572,https://gym.openai.com/evaluations/eval_vhll4HDSfahtUsqjuHFrw,pat-coady,Ant-v1
+N/A,2016-05-03 18:13:59.148676,https://gym.openai.com/evaluations/eval_ngWXJ0paTkGnigm7qIFcSg,joschu,Ant-v1
+N/A,2016-05-03 05:56:19.769544,https://gym.openai.com/evaluations/eval_GQbizsE6TYWyv8vyGwIKA,joschu,Ant-v1
+-1.00 ± 0.00,2016-04-24 22:37:57.934486,https://gym.openai.com/evaluations/eval_yStwrB6Sdawslv72y1M9w,gdb,Go19x19-v0
+23.30 ± 0.09,2016-08-16 01:48:28.050235,https://gym.openai.com/evaluations/eval_gDjJD0MMS1yLm1T0hdqI4g,ppwwyyxx,Tennis-v0
+-23.88 ± 0.04,2016-04-24 22:37:33.204991,https://gym.openai.com/evaluations/eval_79L6v7tTIUh96OGSTvzg,gdb,Tennis-v0
+N/A,2016-05-01 07:57:17.778642,https://gym.openai.com/evaluations/eval_K8qqD8XeRoy1FrzUHqIwqA,gdisneyleugers,Tennis-v0
+167.0,2016-05-17 21:17:30.041936,https://gym.openai.com/evaluations/eval_A3Z8RsvKQnaFwmMGBumHg,blole,ReversedAddition3-v0
+N/A,2016-05-01 07:16:59.244468,https://gym.openai.com/evaluations/eval_RRosAUFTqSdHJbz17U6EQ,gdisneyleugers,ReversedAddition3-v0
+N/A,2016-04-26 23:01:50.015198,https://gym.openai.com/evaluations/eval_VN82y54sQoCxkmaBNSPQ,wojzaremba,ReversedAddition3-v0
+N/A,2016-04-24 22:37:20.562666,https://gym.openai.com/evaluations/eval_ycMaoBi6SDu1WbvTW5vYIQ,gdb,ReversedAddition3-v0
+93480.00 ± 2169.12,2016-08-25 23:24:14.579068,https://gym.openai.com/evaluations/eval_JB5cOJXFSS2cTQ7dXK8Iag,ppwwyyxx,StarGunner-v0
+60086.00 ± 890.19,2016-11-11 07:58:50.453204,https://gym.openai.com/evaluations/eval_bbkB4EdTcu72IO2WqvB9Q,steveKapturowski,StarGunner-v0
+703.00 ± 37.20,2016-04-24 22:37:57.622053,https://gym.openai.com/evaluations/eval_azF2hMNXQVyIU6izcyiS9w,gdb,StarGunner-v0
+640.00 ± 14.36,2016-08-25 22:19:10.149352,https://gym.openai.com/evaluations/eval_mLF7XPi8Tw66pnjP73JsmA,ppwwyyxx,Jamesbond-v0
+30.50 ± 5.32,2016-04-24 22:38:33.864815,https://gym.openai.com/evaluations/eval_f5vL8p0hRGgqvIvl6oX8A,gdb,Jamesbond-v0
+29210.00 ± 926.87,2016-08-19 00:11:21.200778,https://gym.openai.com/evaluations/eval_SoLit2bR1qmFoC0AsJF6Q,ppwwyyxx,BattleZone-v0
+22510.00 ± 961.16,2016-10-24 01:05:54.615868,https://gym.openai.com/evaluations/eval_gT0RmDl6SrWeKHnO3C2ZhA,steveKapturowski,BattleZone-v0
+4110.00 ± 419.26,2016-04-24 22:37:44.494646,https://gym.openai.com/evaluations/eval_0LH9XrRNTxWxcxZ5uV4u5g,gdb,BattleZone-v0
+N/A,2016-05-01 07:32:45.383005,https://gym.openai.com/evaluations/eval_yGMXX62CQtioPPjzEQmc4g,gdisneyleugers,BattleZone-v0
+N/A,2017-06-19 14:14:36.284301,https://gym.openai.com/evaluations/eval_UCFiiwaGQm6eX9IGu5IuQ,Guillem-db,WizardOfWor-ram-v0
+2144.50 ± 108.39,2016-08-22 21:59:26.079804,https://gym.openai.com/evaluations/eval_QudrLdVmTpK9HF5juaZr0w,ppwwyyxx,Gravitar-v0
+252.00 ± 33.41,2016-04-24 22:37:36.443969,https://gym.openai.com/evaluations/eval_fPb3FiijQqKnjrrNLIRjuA,gdb,Gravitar-v0
+60615.00 ± 462.31,2016-08-22 21:48:11.348770,https://gym.openai.com/evaluations/eval_wINKQTwxT9ipydHOXBhg,ppwwyyxx,RoadRunner-v0
+35.00 ± 18.22,2016-04-24 22:37:17.778253,https://gym.openai.com/evaluations/eval_9jWY0dr2TC6vnJFWr6robA,gdb,RoadRunner-v0
+N/A,2016-05-01 07:37:13.237042,https://gym.openai.com/evaluations/eval_3O00rtwHT1izJxTVbEAZfQ,gdisneyleugers,RoadRunner-v0
+11543.60 ± 492.83,2017-06-18 10:26:41.668984,https://gym.openai.com/evaluations/eval_NDkU4oVNTDy6pME9ytMJeg,Guillem-db,MsPacman-ram-v0
+N/A,2017-07-15 15:46:14.957795,https://gym.openai.com/evaluations/eval_K2OymvcmTviaDIxSsZsGWw,githubxiaowei,MsPacman-ram-v0
+N/A,2017-06-19 08:06:04.239060,https://gym.openai.com/evaluations/eval_bNB0Dcr2RQG8zLVKkXg,Guillem-db,VideoPinball-ram-v0
+4498.0,2017-07-22 21:04:54.737611,https://gym.openai.com/evaluations/eval_tUOY3C3Sgy7mvoJeGqfXA,ondrejba,InvertedDoublePendulum-v1
+9800.0,2016-08-15 03:25:09.018534,https://gym.openai.com/evaluations/eval_PtYUMaEUSwqS3YUYA6MOQ,songrotek,InvertedDoublePendulum-v1
+9852.0,2017-07-25 00:49:14.921460,https://gym.openai.com/evaluations/eval_Fy2blGCReaFp3wz64SB4Q,pat-coady,InvertedDoublePendulum-v1
+10230.0,2017-07-27 00:16:58.402611,https://gym.openai.com/evaluations/eval_8B3LHwreSeijowIVKzKEmQ,pat-coady,InvertedDoublePendulum-v1
+N/A,2016-05-03 05:33:17.087254,https://gym.openai.com/evaluations/eval_j1UXpkyST81BXuXC9praA,joschu,InvertedDoublePendulum-v1
+N/A,2016-05-03 04:43:56.632342,https://gym.openai.com/evaluations/eval_BovPB6AGTV2TilgZOceSQ,joschu,InvertedDoublePendulum-v1
+407432.00 ± 6347.40,2016-08-12 01:47:25.506500,https://gym.openai.com/evaluations/eval_mees2c58QfKm5GspCjRfCA,ppwwyyxx,Asterix-v0
+320.00 ± 18.92,2016-04-24 22:37:33.606199,https://gym.openai.com/evaluations/eval_8dilkfRTzGLQR3nIlW4w,gdb,Asterix-v0
+N/A,2016-05-01 07:31:26.873346,https://gym.openai.com/evaluations/eval_iarlEk7TSc2uYGWKsvmoA,gdisneyleugers,Asterix-v0
+3802.00 ± 179.13,2016-04-24 22:37:34.701267,https://gym.openai.com/evaluations/eval_mhjLGph6Ry3x0fATAF2IA,gdb,TimePilot-v0
+1274.60 ± 8.04,2016-08-22 22:05:56.394397,https://gym.openai.com/evaluations/eval_hifoaxFTIuLlPd38BjnOw,ppwwyyxx,BankHeist-v0
+107.40 ± 3.62,2016-07-05 09:56:39.286678,https://gym.openai.com/evaluations/eval_ShxLH47TRve9GQkWjtEWKA,Mariewelt,BankHeist-v0
+68.80 ± 2.82,2016-07-04 14:19:44.403968,https://gym.openai.com/evaluations/eval_7Z76ifIhTqeOQ2Msf5vi2w,Mariewelt,BankHeist-v0
+62.30 ± 2.16,2016-07-04 11:39:56.223309,https://gym.openai.com/evaluations/eval_wfSX3ubgQGmRNkIZyjg,Mariewelt,BankHeist-v0
+15.90 ± 1.11,2016-04-24 22:37:14.891853,https://gym.openai.com/evaluations/eval_1MGfWGUbSGDxsuK8GFrQ,gdb,BankHeist-v0
+1320.16 ± 8.61,2016-05-10 21:05:24.571564,https://gym.openai.com/evaluations/eval_qvvHxRraSUuMbVYTKOhd8A,machinaut,NChain-v0
+1029.74 ± 9.19,2016-05-17 21:42:07.438022,https://gym.openai.com/evaluations/eval_8KB72MuwRqqdbRG4UMs1w,blole,NChain-v0
+245.40 ± 0.15,2017-05-27 23:39:43.787736,https://gym.openai.com/evaluations/eval_iFOMMpBuQeq2bA2WvUgryA,drburke,PredictObsCartpole-v0
+105297.00 ± 1880.74,2016-08-18 23:33:56.597389,https://gym.openai.com/evaluations/eval_bKeBg0QwSgOm6A0I0wDhSw,ppwwyyxx,CrazyClimber-v0
+8187.00 ± 310.02,2016-04-24 22:38:24.669527,https://gym.openai.com/evaluations/eval_8WrxJJxiQFmSqp2dvym5Dw,gdb,CrazyClimber-v0
+N/A,2016-05-01 08:06:37.372898,https://gym.openai.com/evaluations/eval_99dK6Bu7QiSdmW2rUcTkg,gdisneyleugers,CrazyClimber-v0
+1088.0,2017-07-27 00:16:31.059668,https://gym.openai.com/evaluations/eval_U5WoLqDSSymfwLRJeUA,pat-coady,Swimmer-v1
+3807.0,2017-07-25 01:07:07.710582,https://gym.openai.com/evaluations/eval_TrwTLmDrRv2MMvahXuVYuA,pat-coady,Swimmer-v1
+11784.0,2016-05-03 04:52:24.045672,https://gym.openai.com/evaluations/eval_zUZhpfzLQh2z3K2D5P2qg,joschu,Swimmer-v1
+N/A,2016-05-03 05:40:13.201133,https://gym.openai.com/evaluations/eval_UHEsnOhSw5cZd6uldLig,joschu,Swimmer-v1
+4985.0,2016-10-17 20:25:24.851299,https://gym.openai.com/evaluations/eval_TLpp3ioQ2GctOsQGMZ08Q,colinmorris,RepeatCopy-v0
+15466.0,2016-04-25 22:57:41.521697,https://gym.openai.com/evaluations/eval_3fKtYsmhR36I1yy8wpS3w,wojzaremba,RepeatCopy-v0
+N/A,2016-05-17 21:21:14.828647,https://gym.openai.com/evaluations/eval_FEY1osFXQcilXkqvZ9hNA,blole,RepeatCopy-v0
+N/A,2016-05-01 07:14:51.097243,https://gym.openai.com/evaluations/eval_0BIjuaJoT1ykCMhli7CVbg,gdisneyleugers,RepeatCopy-v0
+N/A,2016-04-24 22:37:05.912720,https://gym.openai.com/evaluations/eval_iV4s70ONQQ2Lu2W3pZb0zw,gdb,RepeatCopy-v0
+92163.30 ± 940.52,2016-08-17 19:53:38.531137,https://gym.openai.com/evaluations/eval_KmkvMJkxQFSED20wFUMdIA,ppwwyyxx,UpNDown-v0
+521.10 ± 54.45,2016-04-24 22:37:16.889707,https://gym.openai.com/evaluations/eval_m31GOOUSy6Y0RGtAEDY4Q,gdb,UpNDown-v0
+N/A,2016-05-01 08:01:51.849440,https://gym.openai.com/evaluations/eval_qIwO1WUvRQSzRc5dz2P86Q,gdisneyleugers,UpNDown-v0
+3824.00 ± 378.76,2016-08-22 23:41:10.102255,https://gym.openai.com/evaluations/eval_1oGQhphpQhmzEMIYRrrp0A,ppwwyyxx,WizardOfWor-v0
+3202.00 ± 291.99,2017-06-22 07:23:35.238594,https://gym.openai.com/evaluations/eval_DZxuoBgeRAaR38hRqLPnEw,steveKapturowski,WizardOfWor-v0
+744.00 ± 58.25,2016-04-24 22:38:02.030236,https://gym.openai.com/evaluations/eval_EapGm2U9QPKbGK8DyBWg,gdb,WizardOfWor-v0
+N/A,2016-05-01 07:42:15.607811,https://gym.openai.com/evaluations/eval_RacaWKsJSmCkQFqMT1CjhQ,gdisneyleugers,WizardOfWor-v0
+12201.0,2017-07-25 05:22:58.751979,https://gym.openai.com/evaluations/eval_qLSJe7oBQymaNKsIMVvi4g,pat-coady,Hopper-v1
+14947.0,2017-07-27 21:03:53.584972,https://gym.openai.com/evaluations/eval_w3VSlllbR7q7Vc8VdaTvPA,pat-coady,Hopper-v1
+N/A,2017-04-24 16:15:04.600601,https://gym.openai.com/evaluations/eval_Xl6DYBQkSuCT87psbxMPaQ,RDaneelOlivav,Hopper-v1
+N/A,2016-09-01 12:19:08.143644,https://gym.openai.com/evaluations/eval_MwvKWh5CSp6SO8IAWU4pqw,songrotek,Hopper-v1
+N/A,2016-05-03 05:32:37.973476,https://gym.openai.com/evaluations/eval_W27eCzLQBy60FciaSGSJw,joschu,Hopper-v1
+N/A,2016-05-03 04:41:27.653581,https://gym.openai.com/evaluations/eval_2QnWzUkRReKg4fRXdZmHQ,joschu,Hopper-v1
+123.0,2017-07-25 14:07:51.713670,https://gym.openai.com/evaluations/eval_4ER334HTWu0qjB00Hxljg,squirrelinhell,FrozenLake-v0
+350.0,2017-07-17 17:59:23.358182,https://gym.openai.com/evaluations/eval_4R0BTBDERyap3oWmxTSa2g,sakib-shahriyar,FrozenLake-v0
+725.0,2017-07-31 20:12:12.158979,https://gym.openai.com/evaluations/eval_USL3ofLxRruwDEoZ9QCSPg,wasit7,FrozenLake-v0
+348262.40 ± 878.59,2017-07-31 11:41:31.242335,https://gym.openai.com/evaluations/eval_X0ZuF6HYTYaxqofSe6P6DQ,pat-coady,HumanoidStandup-v1
+1376.45 ± 30.75,2016-08-12 13:22:09.474245,https://gym.openai.com/evaluations/eval_HwEazbHtTYGpCialv9uPhA,ppwwyyxx,Amidar-v0
+3.37 ± 0.90,2016-04-24 22:37:15.618327,https://gym.openai.com/evaluations/eval_k8a2ASsqQiS36fzCRTe54Q,gdb,Amidar-v0
+5211.50 ± 67.20,2016-08-22 18:06:45.535057,https://gym.openai.com/evaluations/eval_xJSOlo2lSWaH1wHEOX5vw,ppwwyyxx,Carnival-v0
+786.00 ± 50.25,2016-04-24 22:37:07.153061,https://gym.openai.com/evaluations/eval_kseOXsiiSYK4jowfXXm43Q,gdb,Carnival-v0
+N/A,2016-05-01 08:28:33.369138,https://gym.openai.com/evaluations/eval_UfB96lRWSzPnpen4TazQ,gdisneyleugers,Carnival-v0
+6323.01 ± 116.91,2017-05-23 15:33:13.732891,https://gym.openai.com/evaluations/eval_8Wwndzd8R62np8CxVQWEeg,dgriff777,MsPacman-v0
+6145.00 ± 171.05,2017-04-22 22:10:00.567222,https://gym.openai.com/evaluations/eval_DRFpbDPDSg21dCCQlTanaQ,fortunto2,MsPacman-v0
+5833.00 ± 157.49,2017-04-22 08:59:56.935276,https://gym.openai.com/evaluations/eval_BoA0OPDgQBu5MDsTAgb0g,fortunto2,MsPacman-v0
+5738.30 ± 171.99,2016-08-22 22:44:59.804287,https://gym.openai.com/evaluations/eval_kpL9bSsS4GXsYb9HuEfew,ppwwyyxx,MsPacman-v0
+2065.50 ± 77.01,2016-12-03 21:57:23.727476,https://gym.openai.com/evaluations/eval_Jy09c1iXRNG4Z338CAx1QQ,pkumusic,MsPacman-v0
+2021.70 ± 89.57,2016-12-03 21:56:17.679082,https://gym.openai.com/evaluations/eval_ZjVn3seeTCWLHqIII0pQ,pkumusic,MsPacman-v0
+1931.80 ± 74.35,2016-05-26 12:15:09.789848,https://gym.openai.com/evaluations/eval_nNcFa9aVQHq9eD5g3c7fBw,AlexGrinch,MsPacman-v0
+1847.00 ± 53.58,2016-11-25 20:13:29.655292,https://gym.openai.com/evaluations/eval_riHeA66BRujxsfQHz6FDA,pkumusic,MsPacman-v0
+1843.90 ± 56.12,2016-05-26 12:33:25.129644,https://gym.openai.com/evaluations/eval_ozkyZzTHToekyPlJmMGdTw,AlexGrinch,MsPacman-v0
+1830.70 ± 57.35,2016-11-25 20:16:27.991957,https://gym.openai.com/evaluations/eval_7UlV9il3RFKNyciZOVu2g,pkumusic,MsPacman-v0
+1317.10 ± 63.30,2016-05-26 16:21:22.182581,https://gym.openai.com/evaluations/eval_p7dV7L66TKa8ekZP5chVg,AlexGrinch,MsPacman-v0
+788.60 ± 54.00,2016-05-27 13:25:44.515149,https://gym.openai.com/evaluations/eval_WCpGwyEMTSyZK2WYLwbJhw,justheuristic,MsPacman-v0
+N/A,2017-06-20 00:13:34.135821,https://gym.openai.com/evaluations/eval_i1hcB1bESbO20DNCtSVYw,Guillem-db,MsPacman-v0
+N/A,2016-05-27 23:02:47.194475,https://gym.openai.com/evaluations/eval_8NxnknS5RX2tGE6KzXS7w,vandyked,MsPacman-v0
+N/A,2016-05-26 11:59:20.442968,https://gym.openai.com/evaluations/eval_0XKOGWL2RzuC1WEzdi2jsg,AlexGrinch,MsPacman-v0
+N/A,2016-05-26 11:54:03.752742,https://gym.openai.com/evaluations/eval_6hqCOH4IT9CqF8e85q527g,AlexGrinch,MsPacman-v0
+7167.24 ± 19.84,2017-07-27 11:35:56.776901,https://gym.openai.com/evaluations/eval_ntItD029SsiNvxn0WGJdw,pat-coady,Walker2d-v1
+5788.93 ± 52.16,2017-07-26 00:04:48.682576,https://gym.openai.com/evaluations/eval_vNi0ssRiTdqkxMaGSerSLg,pat-coady,Walker2d-v1
+5594.75 ± 64.10,2016-05-03 06:41:17.271217,https://gym.openai.com/evaluations/eval_3KevpXcVQnifFFwGX70xag,joschu,Walker2d-v1
+2356.56 ± 87.26,2016-05-03 04:59:03.964344,https://gym.openai.com/evaluations/eval_hCvsLpSrTxafERVJPzbZuA,joschu,Walker2d-v1
+1222.12 ± 91.10,2016-09-01 14:49:19.314112,https://gym.openai.com/evaluations/eval_JYZtl35TryxzjnhJJIWA,songrotek,Walker2d-v1
+22595.00 ± 1012.30,2016-08-25 22:16:21.526044,https://gym.openai.com/evaluations/eval_KVcpR1YgQkEzrL2VIcAQ,ppwwyyxx,Gopher-v0
+364.80 ± 27.82,2016-04-24 22:38:30.387394,https://gym.openai.com/evaluations/eval_CzT0zRXATfBSfkA3y1XSA,gdb,Gopher-v0
+2357.00 ± 193.26,2016-04-24 22:37:13.438130,https://gym.openai.com/evaluations/eval_BJfmXAeKQM6Pova0htM4vQ,gdb,Solaris-v0
+6823.90 ± 130.32,2016-08-25 21:19:31.346202,https://gym.openai.com/evaluations/eval_qtC3taKFSgWwkO9q9IM4hA,ppwwyyxx,Frostbite-v0
+79.20 ± 3.84,2016-04-24 22:38:19.058114,https://gym.openai.com/evaluations/eval_DZndJB7RRxyhQTG682wBg,gdb,Frostbite-v0
+N/A,2016-05-01 08:26:42.920247,https://gym.openai.com/evaluations/eval_vfxeSALSUq7GrZBZmKkg,gdisneyleugers,Frostbite-v0
+1.00 ± 0.00,2016-11-15 09:21:37.478844,https://gym.openai.com/evaluations/eval_21dT2zxJTbKa1TJg9NB8eg,simeneide,Blackjack-v0
+0.34 ± 0.10,2017-01-16 12:39:56.288655,https://gym.openai.com/evaluations/eval_HJfDEbqJR1e0PIiZiw,csnikitin,Blackjack-v0
+0.27 ± 0.10,2017-01-01 10:58:10.994010,https://gym.openai.com/evaluations/eval_hqSRaqSNSA2gbStyaJsoQ,csnikitin,Blackjack-v0
+217186.00 ± 773.39,2016-08-16 00:12:28.149549,https://gym.openai.com/evaluations/eval_Z1B3d7A1QCaQk1HpO1Rg,ppwwyyxx,Atlantis-v0
+21398.00 ± 873.30,2016-04-24 22:37:55.006932,https://gym.openai.com/evaluations/eval_5c5m6nuRBBJyqJuBfVQ,gdb,Atlantis-v0
+N/A,2016-05-01 19:13:36.079360,https://gym.openai.com/evaluations/eval_G6TMMdPkTuKDSgSH38rog,gdisneyleugers,Atlantis-v0
+N/A,2016-05-01 19:09:36.273783,https://gym.openai.com/evaluations/eval_w63tQhoORwqZS5moa9wYQ,gdisneyleugers,Atlantis-v0
+175.0,2017-08-01 04:24:31.551109,https://gym.openai.com/evaluations/eval_80sDgbPxSHowvhedVJKXg,napsternxg,Copy-v0
+738.0,2017-01-19 06:38:05.024625,https://gym.openai.com/evaluations/eval_4lxrKp3qTr2NRIC7Q5tBNQ,1nadequacy,Copy-v0
+1142.0,2017-05-08 18:20:49.439092,https://gym.openai.com/evaluations/eval_eT5pXQ2vRVaNOIFYucz6Cw,unixpickle,Copy-v0
+1165.0,2017-01-17 07:10:32.042637,https://gym.openai.com/evaluations/eval_4aU4O1IKRLdVblPwSh9nA,1nadequacy,Copy-v0
+3072.0,2017-01-17 07:05:54.954547,https://gym.openai.com/evaluations/eval_TjNdXFSpO4dIljdI2fVQ,1nadequacy,Copy-v0
+4332.0,2017-03-22 07:10:24.439658,https://gym.openai.com/evaluations/eval_mvKZYw5rSeGM1PggK9wlg,1nadequacy,Copy-v0
+12540.0,2017-07-20 08:56:13.204920,https://gym.openai.com/evaluations/eval_pSQ46cQKRKOEMQSFPp3EA,artonge,Copy-v0
+19979.0,2017-01-15 05:27:00.126153,https://gym.openai.com/evaluations/eval_vrLkvOCJR66IHqUTOCQfug,1nadequacy,Copy-v0
+75312.40 ± 2370.02,2016-08-22 23:25:29.865718,https://gym.openai.com/evaluations/eval_uzUruiB3RRKUMvJIxvEzYA,ppwwyyxx,Phoenix-v0
+1013.20 ± 83.65,2016-04-24 22:37:59.280745,https://gym.openai.com/evaluations/eval_GoTeEe7uTyq5M6PbQk1g,gdb,Phoenix-v0
+N/A,2016-05-27 10:41:51.465518,https://gym.openai.com/evaluations/eval_mxSPuDRb2jPmDcDsa4nA,silkbottle,Phoenix-v0
+3170.70 ± 104.38,2017-05-28 06:42:02.506177,https://gym.openai.com/evaluations/eval_SOQMtM6RCRG7ztKMKyLg,dgriff777,Asteroids-v0
+2699.90 ± 72.61,2017-05-26 23:11:22.965184,https://gym.openai.com/evaluations/eval_Ci2O2nOTRryPtAZIgFAig,dgriff777,Asteroids-v0
+2519.10 ± 95.86,2017-05-26 14:40:15.865367,https://gym.openai.com/evaluations/eval_3TYQpU2R8W7awnt4gChaQ,dgriff777,Asteroids-v0
+1964.80 ± 54.31,2016-08-15 07:29:57.703159,https://gym.openai.com/evaluations/eval_8eHKsRL4RzuZEq9AOLZA,ppwwyyxx,Asteroids-v0
+1042.40 ± 48.68,2016-04-24 22:37:25.461549,https://gym.openai.com/evaluations/eval_X5T5hhf0RVqpeZKS9K0Qw,gdb,Asteroids-v0
+N/A,2016-05-01 07:31:56.746816,https://gym.openai.com/evaluations/eval_Jt2dQmIwQjucznSXjDKRw,gdisneyleugers,Asteroids-v0
+N/A,2017-06-18 20:28:14.542536,https://gym.openai.com/evaluations/eval_iyQTuphhQ1tNxQd9h5JjQ,Guillem-db,Tennis-ram-v0
+3397.38 ± 208.09,2016-08-15 07:24:55.334161,https://gym.openai.com/evaluations/eval_tCiHwy5QrSdFVucSbBV6Q,ppwwyyxx,Assault-v0
+268.38 ± 9.16,2016-04-24 22:38:06.494958,https://gym.openai.com/evaluations/eval_WnchdhDKQgemHBBf1y58Bg,gdb,Assault-v0
+1966.0,2017-07-27 00:16:03.283284,https://gym.openai.com/evaluations/eval_iegADH1ITv4cAvQvEXYUA,pat-coady,HalfCheetah-v1
+4401.0,2017-04-09 17:11:30.706052,https://gym.openai.com/evaluations/eval_JdipWkR4RCKUgmE4tgyDUA,deltameter,HalfCheetah-v1
+4791.0,2017-07-25 02:27:43.066481,https://gym.openai.com/evaluations/eval_qg2ALzSXmx6UJ2i0YD6g,pat-coady,HalfCheetah-v1
+12006.0,2016-05-03 05:28:51.666768,https://gym.openai.com/evaluations/eval_Gudf6XDS2WL76S7wZicLA,joschu,HalfCheetah-v1
+45864.0,2016-05-03 04:34:09.777226,https://gym.openai.com/evaluations/eval_qtOtPrCgS8O9U2sZG7ByQ,joschu,HalfCheetah-v1
+23.12 ± 0.17,2016-08-16 02:28:01.241441,https://gym.openai.com/evaluations/eval_FI1GpF4TlCuf29KccTpQ,ppwwyyxx,DoubleDunk-v0
+-18.08 ± 0.40,2016-04-24 22:38:17.979985,https://gym.openai.com/evaluations/eval_Q3e6IzkWSkisCD8Nlyn3ew,gdb,DoubleDunk-v0
+N/A,2016-05-01 19:12:19.136512,https://gym.openai.com/evaluations/eval_MdckI0N3TGm9LmMdZSll1Q,gdisneyleugers,DoubleDunk-v0
+288.12 ± 0.93,2016-08-25 23:47:45.355307,https://gym.openai.com/evaluations/eval_D7pEk2ApRAO7l3RO8q9Gw,ppwwyyxx,Tutankham-v0
+13.79 ± 2.07,2016-04-24 22:38:00.513386,https://gym.openai.com/evaluations/eval_oOFcHOMcRUyQPUjRGotI6w,gdb,Tutankham-v0
+304.0,2017-07-31 06:16:25.572603,https://gym.openai.com/evaluations/eval_0yehii4RkWoLNszPAxQ,filmo,LunarLander-v2
+550563.0,2017-07-30 16:18:28.858565,https://gym.openai.com/evaluations/eval_TVc7549RcmNGE97ICVw,koltafrickenfer,LunarLander-v2
+8441.22 ± 221.24,2017-06-01 03:40:15.087593,https://gym.openai.com/evaluations/eval_pl5bvWR8Somu8PfFJzTryA,dgriff777,BeamRider-v0
+8247.92 ± 221.96,2017-05-31 22:26:45.822425,https://gym.openai.com/evaluations/eval_pqTRhOKqTtyfELN7tzWIDg,dgriff777,BeamRider-v0
+6932.76 ± 181.90,2017-05-31 18:10:40.231584,https://gym.openai.com/evaluations/eval_gSOJdGMSj2GUkoeoGe6sQ,dgriff777,BeamRider-v0
+5972.48 ± 310.31,2016-08-18 22:53:57.270214,https://gym.openai.com/evaluations/eval_KuOYumrjQjixwL0spG0iCA,ppwwyyxx,BeamRider-v0
+5346.04 ± 270.26,2016-10-24 03:44:43.183684,https://gym.openai.com/evaluations/eval_HACC1UyiRhWVSNU6ggfQKg,steveKapturowski,BeamRider-v0
+373.80 ± 18.13,2016-04-24 22:37:55.973354,https://gym.openai.com/evaluations/eval_DgtaWcRsQGmIVdq0ml7Ow,gdb,BeamRider-v0
+N/A,2016-05-01 08:12:19.968889,https://gym.openai.com/evaluations/eval_AW3ERh5SRnSBR2AprRS0g,gdisneyleugers,BeamRider-v0
+2611.90 ± 104.43,2016-08-15 06:57:09.743564,https://gym.openai.com/evaluations/eval_8NR1IvjTQkSIT6En4xSMA,ppwwyyxx,Alien-v0
+223.80 ± 22.98,2017-04-26 22:40:46.590217,https://gym.openai.com/evaluations/eval_yzRouTxgS1auUoWQlQvQA,araina2,Alien-v0
+191.10 ± 19.84,2016-04-24 22:38:05.537396,https://gym.openai.com/evaluations/eval_bG4zbz4vRzOly8Duilhb8Q,gdb,Alien-v0
+59.85 ± 0.99,2016-08-22 23:58:40.365033,https://gym.openai.com/evaluations/eval_Gr5c0ld3QACLDPQrGdzbiw,ppwwyyxx,Robotank-v0
+2.27 ± 0.18,2016-04-24 22:38:03.725032,https://gym.openai.com/evaluations/eval_0fGhNU6XRSGhPX43pmbbA,gdb,Robotank-v0
+0.00 ± 0.00,2016-04-24 22:37:52.125746,https://gym.openai.com/evaluations/eval_oiWssD9zSOaNeJSZ82smTg,gdb,Venture-v0
+95.47 ± 0.50,2017-06-23 02:13:09.101103,https://gym.openai.com/evaluations/eval_7Ejurno6RTNYbva0f26Og,steveKapturowski,Boxing-v0
+87.36 ± 0.70,2017-06-22 14:39:18.199223,https://gym.openai.com/evaluations/eval_sqcyB2IrQhiO3tmVbm6jAw,steveKapturowski,Boxing-v0
+76.98 ± 0.90,2017-06-22 06:08:09.753091,https://gym.openai.com/evaluations/eval_MJxFKW65Q3SYlxp98qX6xA,steveKapturowski,Boxing-v0
+63.66 ± 1.76,2017-06-22 03:46:52.357598,https://gym.openai.com/evaluations/eval_SLzCd7rpSimnagRVECmeig,steveKapturowski,Boxing-v0
+59.35 ± 3.19,2016-08-22 13:46:56.199901,https://gym.openai.com/evaluations/eval_Mscv3SruAPYFOzs2sOw,lusob,Boxing-v0
+N/A,2016-08-22 13:01:01.939583,https://gym.openai.com/evaluations/eval_6jJoEl9rT5OK5vv0zUN83w,lusob,Boxing-v0
+N/A,2016-05-01 08:27:59.358412,https://gym.openai.com/evaluations/eval_UeIzh0PPRaSpOFL0RGAUPA,gdisneyleugers,Boxing-v0
+N/A,2016-05-01 07:35:07.783425,https://gym.openai.com/evaluations/eval_5e9I0pzUTsCfyJkqODERA,gdisneyleugers,Boxing-v0
+33992.20 ± 727.92,2016-08-16 19:07:18.778521,https://gym.openai.com/evaluations/eval_tt21vVaRCKYzWFcg1Kw,ppwwyyxx,DemonAttack-v0
+192.10 ± 14.71,2016-04-24 22:38:15.225556,https://gym.openai.com/evaluations/eval_o3fKA5vgQOaR3Fg4suYgug,gdb,DemonAttack-v0
+N/A,2016-05-01 08:21:18.408541,https://gym.openai.com/evaluations/eval_cT7fWTzQ2S4eRnlZ5itEg,gdisneyleugers,DemonAttack-v0
+N/A,2016-05-01 08:18:28.572825,https://gym.openai.com/evaluations/eval_k6Y3xse0QSulBHsZmnBwg,gdisneyleugers,DemonAttack-v0
+31.12 ± 0.09,2017-06-22 14:30:23.611982,https://gym.openai.com/evaluations/eval_uFh33hycQl2peDHIpWn6UA,steveKapturowski,Freeway-v0
+0.00 ± 0.00,2016-04-24 22:37:21.278206,https://gym.openai.com/evaluations/eval_tWjYG9a7QzqkFe7zyBHNwg,gdb,Freeway-v0
+15320.80 ± 162.77,2016-08-26 00:56:56.494087,https://gym.openai.com/evaluations/eval_LZqfv706SdOMtR4ZZIwIsg,ppwwyyxx,NameThisGame-v0
+2353.80 ± 91.31,2016-04-24 22:37:26.236090,https://gym.openai.com/evaluations/eval_xQBdCANXTUOLHNcx2hq6mw,gdb,NameThisGame-v0
+11377.00 ± 415.12,2016-08-16 20:26:49.570903,https://gym.openai.com/evaluations/eval_SqeAouMvR0icRivx2xprZg,ppwwyyxx,ElevatorAction-v0
+2153.00 ± 495.59,2016-04-24 22:37:28.921447,https://gym.openai.com/evaluations/eval_1SZqXFTRyJEFdBMl7UA,gdb,ElevatorAction-v0
+N/A,2016-05-01 07:48:40.609627,https://gym.openai.com/evaluations/eval_bsCsyWuQISUx1RlFIXdTA,gdisneyleugers,ElevatorAction-v0
+34.20 ± 1.37,2016-08-16 02:07:41.814022,https://gym.openai.com/evaluations/eval_pPLCnFXsTVaayrIboDOs0g,ppwwyyxx,FishingDerby-v0
+-93.18 ± 0.35,2016-04-24 22:38:11.219186,https://gym.openai.com/evaluations/eval_orLvudHZTweUOQ5hLIwyhA,gdb,FishingDerby-v0
+N/A,2016-05-01 07:36:28.940247,https://gym.openai.com/evaluations/eval_wWuusMr6RUi7gyvaejBJg,gdisneyleugers,FishingDerby-v0
+-134.48 ± 9.07,2017-08-01 06:48:19.122571,https://gym.openai.com/evaluations/eval_8fed5Yz2TLqtxcMBzKi9Wg,heerad,Pendulum-v0
+760.07 ± 18.37,2017-07-17 02:29:02.231035,https://gym.openai.com/evaluations/eval_NiKaIN4NSUeEIvWqIgVDrA,ppwwyyxx,Breakout-v0
+739.30 ± 18.43,2017-05-20 08:19:52.915843,https://gym.openai.com/evaluations/eval_CyVPHgs0S22DiZsWXoPFw,dgriff777,Breakout-v0
+703.19 ± 19.52,2017-04-30 05:35:39.837521,https://gym.openai.com/evaluations/eval_OiRtMxrwSiOwnU1aGD5kCw,ppwwyyxx,Breakout-v0
+663.63 ± 21.67,2017-04-22 23:03:50.326032,https://gym.openai.com/evaluations/eval_NQ6cZZXTR7y4EJQNV6HOA,fortunto2,Breakout-v0
+422.90 ± 9.78,2017-07-04 15:14:54.358575,https://gym.openai.com/evaluations/eval_DKtoUiYuSESwmJOOUWekw,hiwonjoon,Breakout-v0
+360.56 ± 12.72,2017-03-25 17:44:36.795693,https://gym.openai.com/evaluations/eval_LNLkYiPSoKqL87IwG1g,Shmuma,Breakout-v0
+123.22 ± 9.52,2017-06-01 07:12:51.541920,https://gym.openai.com/evaluations/eval_egeY6GRCN7udtFwDjxA,kkweon,Breakout-v0
+30.59 ± 1.56,2017-04-06 06:58:39.855123,https://gym.openai.com/evaluations/eval_PnbXlpV3RqyzovY8xk1aQ,1nadequacy,Breakout-v0
+24.64 ± 1.47,2017-07-28 05:14:26.962572,https://gym.openai.com/evaluations/eval_09xbqsQpkTiziOx3KMA,ja3067,Breakout-v0
+258.0,2017-05-20 20:20:22.678533,https://gym.openai.com/evaluations/eval_LW11hCcHQCONzszBT6uysA,siddpr,InvertedPendulum-v1
+660.0,2017-07-25 00:52:13.683736,https://gym.openai.com/evaluations/eval_A3TjbgzvToKhlw6vqJKFg,pat-coady,InvertedPendulum-v1
+663.0,2017-07-27 00:17:26.165342,https://gym.openai.com/evaluations/eval_6Nc7hKVLSUK3xsVcfC4ADA,pat-coady,InvertedPendulum-v1
+697.0,2017-05-20 20:39:47.658317,https://gym.openai.com/evaluations/eval_nFEiWglETrue2wXQGLMHQ,siddpr,InvertedPendulum-v1
+745.0,2016-12-05 04:14:10.797824,https://gym.openai.com/evaluations/eval_nOHtclDlTeCwkS7VbLj2Pw,clwillingham,InvertedPendulum-v1
+6012.0,2016-11-17 05:27:33.279217,https://gym.openai.com/evaluations/eval_XV17MxasR9GmupaP5brTEQ,seba-1511,InvertedPendulum-v1
+7658.0,2017-07-24 06:28:07.778576,https://gym.openai.com/evaluations/eval_szmwUr3BTZK1STZF1pJxqg,hyunjun529,InvertedPendulum-v1
+140155.80 ± 12624.27,2016-08-16 04:26:31.097546,https://gym.openai.com/evaluations/eval_PWwzNhVFR2CxjYvEsPfT1g,ppwwyyxx,VideoPinball-v0
+26641.87 ± 2779.91,2016-04-24 22:37:51.394340,https://gym.openai.com/evaluations/eval_8umZO6YPQUOS6ZgyTUtwKg,gdb,VideoPinball-v0
+N/A,2016-05-01 07:40:50.078411,https://gym.openai.com/evaluations/eval_j4ysiHMhS9qSTca4tBvXyw,gdisneyleugers,VideoPinball-v0
+4.34 ± 2.99,2016-05-07 15:33:25.787476,https://gym.openai.com/evaluations/eval_DFWdtrdSCikuZWwf8HN8A,tanemaki,Roulette-v0
+1.70 ± 1.51,2016-05-07 19:24:50.810894,https://gym.openai.com/evaluations/eval_UFV16qbdTraYLs9HnKomQ,gdb,Roulette-v0
+-0.83 ± 1.04,2016-04-24 22:38:02.857565,https://gym.openai.com/evaluations/eval_23e7umhxT2qqAoMM9m2RcA,gdb,Roulette-v0
+5808.45 ± 337.28,2017-06-13 05:57:02.739897,https://gym.openai.com/evaluations/eval_K69ZjwAnSdOzN7lnUblqA,dgriff777,SpaceInvaders-v0
+5582.50 ± 329.68,2017-06-11 19:27:54.101421,https://gym.openai.com/evaluations/eval_ugxqYA1QnGygifjBquq4w,dgriff777,SpaceInvaders-v0
+4232.05 ± 210.61,2017-06-10 05:42:45.241142,https://gym.openai.com/evaluations/eval_bbfnihTxSDq3DJ05r0nYlg,dgriff777,SpaceInvaders-v0
+3985.35 ± 302.84,2017-04-30 06:36:06.143523,https://gym.openai.com/evaluations/eval_F1C8O1qZSsyQyMqWSpxUuA,ppwwyyxx,SpaceInvaders-v0
+384.80 ± 17.23,2017-03-30 00:28:33.762498,https://gym.openai.com/evaluations/eval_yXqf7GCQeSjx5fAnwq0Q,xinshuoweng,SpaceInvaders-v0
+377.40 ± 16.28,2017-03-30 00:03:29.420642,https://gym.openai.com/evaluations/eval_rP2YFwuXRYCAq87GnGrewA,xinshuoweng,SpaceInvaders-v0
+359.30 ± 14.76,2017-03-30 00:53:16.011554,https://gym.openai.com/evaluations/eval_v8IwHCjORzyRbJY7dMkrg,xinshuoweng,SpaceInvaders-v0
+325.40 ± 12.77,2017-03-30 00:21:44.024171,https://gym.openai.com/evaluations/eval_wrR6feVgTSGbqjqxgBzeMg,xinshuoweng,SpaceInvaders-v0
+283.15 ± 15.25,2017-03-30 00:43:31.893916,https://gym.openai.com/evaluations/eval_jJ5WrKGTEiHz4yDU3jPjw,xinshuoweng,SpaceInvaders-v0
+275.70 ± 12.35,2017-03-30 00:49:46.185094,https://gym.openai.com/evaluations/eval_cnjdLKOT7SwxzS5554wQ,xinshuoweng,SpaceInvaders-v0
+272.85 ± 17.03,2017-03-30 00:44:21.081857,https://gym.openai.com/evaluations/eval_2NcsoG4WT5S3VKot2oHhGA,xinshuoweng,SpaceInvaders-v0
+265.60 ± 16.94,2017-03-30 00:05:24.455818,https://gym.openai.com/evaluations/eval_IrvI8uQwT6egsGQy3rL7w,xinshuoweng,SpaceInvaders-v0
+262.85 ± 15.68,2017-03-29 23:58:47.524375,https://gym.openai.com/evaluations/eval_PtQ2dtXBRnaruUe0bs2Og,xinshuoweng,SpaceInvaders-v0
+255.25 ± 16.58,2017-03-30 00:44:17.017538,https://gym.openai.com/evaluations/eval_86LDH00RE2gURqx90aw,xinshuoweng,SpaceInvaders-v0
+248.40 ± 17.84,2017-03-30 00:22:36.982587,https://gym.openai.com/evaluations/eval_MpgFAG8rTsmJQWbogZ3Mzw,xinshuoweng,SpaceInvaders-v0
+240.30 ± 17.06,2017-03-30 00:21:39.330572,https://gym.openai.com/evaluations/eval_96Usd2XgSMK5O7u5DqBhA,xinshuoweng,SpaceInvaders-v0
+220.35 ± 8.86,2017-03-29 23:56:14.088784,https://gym.openai.com/evaluations/eval_PyZVW0AVRKmp6leT9ZTWIg,xinshuoweng,SpaceInvaders-v0
+183.55 ± 13.19,2017-03-30 00:50:43.308178,https://gym.openai.com/evaluations/eval_7jFbd2ORGWuIL8HpLDRBw,xinshuoweng,SpaceInvaders-v0
+180.00 ± 0.00,2017-03-30 00:12:31.432256,https://gym.openai.com/evaluations/eval_LjhY0VpoTgmKfp5DrEtfFg,xinshuoweng,SpaceInvaders-v0
+180.00 ± 0.00,2017-03-30 00:10:36.638016,https://gym.openai.com/evaluations/eval_6F9rngp8SySGKCTpLEJNtw,xinshuoweng,SpaceInvaders-v0
+111.0,2016-05-17 21:20:24.512413,https://gym.openai.com/evaluations/eval_KsY6dwn7QpuVCTt5YLaXA,blole,DuplicatedInput-v0
+318.0,2016-10-17 20:25:53.569506,https://gym.openai.com/evaluations/eval_zepBNZmRNGlss9URiapA,colinmorris,DuplicatedInput-v0
+3980.0,2016-09-30 18:05:04.285992,https://gym.openai.com/evaluations/eval_5PlrBv8wRNGI2J1lp3otUA,colinmorris,DuplicatedInput-v0
+10199.0,2016-04-25 22:53:19.654523,https://gym.openai.com/evaluations/eval_6dr7m1ORAyiESxAOon3jQ,wojzaremba,DuplicatedInput-v0
+17243.0,2016-04-26 03:07:40.642160,https://gym.openai.com/evaluations/eval_8gVhW6QR062bHnFa3M4vA,wojzaremba,DuplicatedInput-v0
+N/A,2016-05-01 08:09:41.017443,https://gym.openai.com/evaluations/eval_c6GuGYjhSVCFTmZRuJev5w,gdisneyleugers,DuplicatedInput-v0
+N/A,2016-04-24 22:37:24.387819,https://gym.openai.com/evaluations/eval_NSXTGbIPReHSTM00T65yg,gdb,DuplicatedInput-v0
+18422.00 ± 757.23,2017-06-19 08:20:35.723532,https://gym.openai.com/evaluations/eval_dJjksNFuSGKPSYPv09JWdg,Guillem-db,Qbert-ram-v0
+2727.00 ± 109.87,2016-08-09 19:52:43.562786,https://gym.openai.com/evaluations/eval_zIeNk5MxSGOmvGEUxrZDUw,ppwwyyxx,AirRaid-v0
+639.25 ± 46.88,2016-04-24 22:37:22.694469,https://gym.openai.com/evaluations/eval_JwmbKjd2QUSGx6xbqG8azg,gdb,AirRaid-v0
+470.75 ± 25.23,2016-05-03 14:16:14.982505,https://gym.openai.com/evaluations/eval_sG25QUm5SImJAN0m9nZqQ,justheuristic,AirRaid-v0
+245.00 ± 18.44,2016-04-30 12:03:50.331291,https://gym.openai.com/evaluations/eval_qXkbOOEOSZ6lBq8FKXHOEQ,justheuristic,AirRaid-v0
+N/A,2016-05-01 07:05:08.259394,https://gym.openai.com/evaluations/eval_YODdQEATz2xpUzF0RNg,gdisneyleugers,AirRaid-v0
+N/A,2016-05-01 07:03:45.483942,https://gym.openai.com/evaluations/eval_EGQzqdw4RUeBPkqXh6cQLA,gdisneyleugers,AirRaid-v0
+N/A,2016-04-29 22:49:39.771267,https://gym.openai.com/evaluations/eval_IGAcUaxRSSHz7RUCgwX9w,justheuristic,AirRaid-v0
+6100.47 ± 135.51,2016-08-22 22:14:34.399399,https://gym.openai.com/evaluations/eval_dfOS2WzhTh6sn1FuPS9HA,ppwwyyxx,Krull-v0
+1654.66 ± 49.69,2016-04-24 22:37:11.350896,https://gym.openai.com/evaluations/eval_Ic97hPnRueaPaoMjYpWA,gdb,Krull-v0
+14185.50 ± 170.09,2016-08-23 01:17:55.570750,https://gym.openai.com/evaluations/eval_OU4x3DkTfm4uaXy6CIaXg,ppwwyyxx,Riverraid-v0
+1839.90 ± 19.37,2017-03-10 06:38:30.181821,https://gym.openai.com/evaluations/eval_wvCQNYRe6ibsIceLMqQ,Shmuma,Riverraid-v0
+1590.00 ± 33.04,2017-04-21 01:05:30.337692,https://gym.openai.com/evaluations/eval_dkgb3BKUTRWB45YZMJSDew,israelzuniga,Riverraid-v0
+1584.10 ± 40.98,2016-04-24 22:38:04.900760,https://gym.openai.com/evaluations/eval_zM7RRAr1Q4CyoxtjKaynZA,gdb,Riverraid-v0
+N/A,2016-05-01 07:56:02.932417,https://gym.openai.com/evaluations/eval_KloEOGIUT1GqfimMN5Gt7Q,gdisneyleugers,Riverraid-v0
+6540.00 ± 207.07,2016-08-25 22:42:29.511850,https://gym.openai.com/evaluations/eval_TNJiLB8fTqOPfvINnPXoQ,ppwwyyxx,Kangaroo-v0
+68.00 ± 13.78,2016-04-24 22:37:34.038838,https://gym.openai.com/evaluations/eval_kw7NK9GTQQqnY3dsVkGHbA,gdb,Kangaroo-v0
