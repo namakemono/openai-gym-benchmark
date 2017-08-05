@@ -24,11 +24,6 @@ def run(fpath):
         else:
             logger.info("[%s Error] Download failed for `env_id=%s`" % (r.status_code, env_id))
 
-def test():
-    html = "\n".join(open("/tmp/CartPole-v0.html").readlines())
-    df = pd.DataFrame(parse(html))
-    print df
-
 def parse(html):
     records = []
     root = lxml.html.fromstring(html) # .getroot()
@@ -50,7 +45,6 @@ def parse(html):
     return records
 
 if __name__ == "__main__":
-    test()
     import argparse
     parser = argparse.ArgumentParser()
     parser.add_argument('--fpath', type=str, default="/tmp/openai_gym_scoreboard.csv")
